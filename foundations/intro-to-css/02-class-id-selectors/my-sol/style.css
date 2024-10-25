@@ -3,3 +3,6 @@
 #two {color: rgb(57, 57, 219);
 font-size: 36px;}
 .cooler {font-size: 24px;}
+#three {background-color: hwb(120 33% 14%);
+font-size: 24px;
+font-weight: bold;}
